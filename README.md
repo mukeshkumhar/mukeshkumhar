@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DocVerifyPro](https://github.com/mukeshkumhar/DocVerifyPro)
 
-- 👨‍💻 All of my projects are available at [https://codewhatyouwant.github.io/My-PortFolio/](https://mukeshkumhar.github.io/My-PortFolio/)
+- 👨‍💻 All of my projects are available at [https://mukeshkumhar.github.io/My-PortFolio/](https://mukeshkumhar.github.io/My-PortFolio/)
 
 - 📫 How to reach me **mukeshkumhar906@gmail.com**
 
