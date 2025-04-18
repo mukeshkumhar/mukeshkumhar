@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Coffee Shop](https://github.com/mukeshkumhar/CoffeeShop)
 
-- 👨‍💻 All of my projects are available at [https://mukeshkumhar.github.io/My-PortFolio/](https://mukeshkumhar.github.io/My-PortFolio/)
+- 👨‍💻 See my projects on [My-PortFolio](https://mukeshkumhar.github.io/My-PortFolio/)
 
 - 📫 How to reach me **mukeshkumhar906@gmail.com**
 
