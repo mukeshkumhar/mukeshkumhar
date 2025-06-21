@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshkumhar&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshkumhar" /> </p>
 
-- 🔭 I’m currently working on [Coffee Shop](https://github.com/mukeshkumhar/CoffeeShop)
+- 🔭 I’m currently working on [Quantum Simulator](https://github.com/mukeshkumhar/Quantum-Simulator-App)
 
 - 👨‍💻 See my projects on [My-PortFolio](https://mukeshkumhar.github.io/My-PortFolio/)
 
